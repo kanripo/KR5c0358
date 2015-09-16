@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:56:48.835125
+#+TITLE: 玄天上帝啟聖錄
+#+PROPERTY: DZID  DZ0958
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，19—571 八卷 洞神部記傳類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
